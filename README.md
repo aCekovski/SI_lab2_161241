@@ -3,7 +3,7 @@
 ## Група на код: 
 Ја добив групата на код 6
 ## Control Flow Graph 
-https://i.ibb.co/qrXhbsD/Control-Flow-Graph.png
+https://github.com/aCekovski/SI_lab2_161241/blob/master/Control%20Flow%20Graph.png
 
 ## Цикломатска комплексност ##
 Цикломатската комплексност на функцијата **function()** изнесува *7* и ја добив на следните два начина.
